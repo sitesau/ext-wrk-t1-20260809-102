@@ -1,0 +1,22 @@
+{
+  "wheel_id": 534,
+  "structure": "umbrella",
+  "slug": "ext-wrk-t1-20260809-102",
+  "project": "retaining-wall-drainage-ipswich-beginner-guide-fde78642628b9dd2",
+  "parent_t1_ref": "ext-wrk-t1-20260809-150",
+  "node_role": "feeder",
+  "money_target": "retainingwallipswich.com.au",
+  "primary_kw": "retaining wall drainage Ipswich beginner guide",
+  "intended_url": "https://sites-e470-2.web.app/retaining-wall-drainage-ipswich-beginner-guide-fde78642628b9dd2/",
+  "tier": "T2",
+  "writeback_nonce": "6021bdf064920b4a",
+  "links": [
+    {
+      "target_url": "http://retaining-wall-drainage-ipswich-2b323dce939327e5592e3340b361630.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "retaining wall drainage Ipswich explained",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
